@@ -1,5 +1,9 @@
 # Portfolio
 
+# How to use firebase :
+https://www.c-sharpcorner.com/article/how-to-deploy-and-host-an-angular-application-on-firebase/
+https://console.firebase.google.com/project/portfolio-bf89b/overview
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
 ## Development server
